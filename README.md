@@ -1,5 +1,6 @@
 # BUSINESS_ANALYSIS_BOOTCAMP_PROJECTS_2025
-Project Summary: Food Ordering Website
+Project Summary: Food Ordering Website.
+
 This project was completed as part of a 3-month IT Business Analysis bootcamp, where i gained hands-on experience using industry-standard tools and methodologies.
 The goal was to simulate the end-to-end process of business analysis for an already existing Food Ordering Website needing improvement in three key aspects. 
 The scope was limited to three aspects namely:
