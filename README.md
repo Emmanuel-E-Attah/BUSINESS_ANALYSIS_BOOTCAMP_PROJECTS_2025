@@ -7,8 +7,8 @@ The goal was to simulate the end-to-end process of business analysis for an alre
 The scope was limited to three aspects namely:
 Online payment Integration, Menu management, Customer Feedback and Review System. Key activities included:
 
-1.Business Requirements Documentation: Utilized Confluence to document the business requirements, ensuring all stakeholders' needs were captured effectively.
-2.Agile Framework Implementation: Used Jira to create and manage Epics, User Stories, and Acceptance Criteria, aligning with Agile best Practices.
-3.Process Mapping: Designed a comprehensive Process Mapping Diagram using Miro, visually representing the workflows and processes involved in the project.
+1.Business Requirements Documentation: Utilized CONFLUENCE to document the business requirements, ensuring all stakeholders' needs were captured effectively.
+2.Agile Framework Implementation: Used JIRA to create and manage Epics, User Stories, and Acceptance Criteria, aligning with Agile best Practices.
+3.Process Mapping: Designed a comprehensive Process Mapping Diagram using MIRO, visually representing the workflows and processes involved in the project.
 
-This project demonstrates my proficiency in business analysis tools, requirements gathering, process mapping, and Agile methodologies.
+This project demonstrates my proficiency in business analysis tools(CONFLUENCE, JIRA, MIRO) requirements gathering, process mapping, and Agile methodologies.
